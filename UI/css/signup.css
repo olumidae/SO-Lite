@@ -27,6 +27,11 @@ body {
     border-color: #C0B283;
 }
 
+li.signup_link {
+    border: 1px solid #C0B283;
+    border-radius: 3px;
+}
+
 .bg-custom-color a {
     color: #F4F4F4;
 }
